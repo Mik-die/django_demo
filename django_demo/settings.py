@@ -83,4 +83,4 @@ USE_TZ = True
 STATIC_URL = '/static/'
 
 PREPEND_WWW = False
-# APPEND_SLASH = False
+APPEND_SLASH = False
